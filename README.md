@@ -90,3 +90,5 @@ Description of the following methods
 BankAcountDecorator must be an interface.
 
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
+
+Here is the link to my UML Diagram: https://lucid.app/lucidchart/4bce2449-bc00-4684-8e28-56194b790667/edit?beaconFlowId=77E19FC8342A4C92&invitationId=inv_6def2924-e052-4989-92c4-9dc4740f5698&page=0_0#
